@@ -16,8 +16,8 @@ Urbaneel helps you travel around Cyprus with ease by providing a **live bus map*
 
 - 🗺 **Live Bus Map** – View real-time locations of buses across Cyprus.  
 - 📍 **Nearest Bus Stops** – Instantly find the closest stops to your current location.  
-- 🕒 **Live Timetables** – Access current bus routes and schedules in cities like **Limassol**, **Nicosia**, **Larnaca**, **Paphos**, and **Ayia Napa**.  
-- 🧭 **Journey Planning** – Plan your trips quickly and accurately.  
+- 🕒 **Live Timetables** *(In Progress)* – Access current bus routes and schedules in cities like **Limassol**, **Nicosia**, **Larnaca**, **Paphos**, and **Ayia Napa**.  
+- 🧭 **Journey Planning**  *(In Progress)* – Plan your trips quickly and accurately.  
 - 📡 **Real-Time Arrival Updates** – Receive precise information about arrivals and delays.
 
 ## 📲 Why Use Urbaneel?
